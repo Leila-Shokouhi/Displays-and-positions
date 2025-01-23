@@ -1,3 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.B {
+    margin: 0.5rem;
+}
+
 .H {
     height: 50px;
     position: sticky;
