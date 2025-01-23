@@ -1,0 +1,25 @@
+.H {
+    height: 50px;
+    position: sticky;
+    display: block;
+    background-color: rgb(34, 127, 214);
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.P1 {
+    padding: 15px ;
+}
+
+.M {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(131, 137, 141);
+    height: 50rem;
+    width: 100%;
+}
+.P2 {
+    position: absolute;
+    margin: 0 0;
+    padding: 0 0;
+}

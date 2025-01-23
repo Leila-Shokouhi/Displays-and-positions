@@ -2,6 +2,7 @@
     width: 250px;
     height: 150px;
     position: relative;
+    display: block;
 }
 .div1 {
     background-color: aqua;
