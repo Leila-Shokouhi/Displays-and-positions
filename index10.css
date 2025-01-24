@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+} 
+  
+.apple {
+    position: relative;
+    display: inline-block;
+    width: 310px;
+    height: 430px;
+    padding: 20px;
+    margin: 25px;
+    background-color: rgb(246, 240, 240);
+    border: #ddd solid 2px;
+    border-radius: 8px;
+}
+  
+.image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: black solid 2px;
+}
+  
+.h2 {
+    margin: 10px 0;
+}
+  
+.p {
+    margin: 10px 0;
+    color: grey;
+} 
+.price {
+    color: orangered;
+    margin: 10px 0;
+}
+  
+.add-to-cart {
+    position: fixed;
+    display: inline-block;
+    padding: 10px 10px;
+    color: white;
+    background-color: orangered;
+    border-radius: 5px;
+    border: none;
+}
+  

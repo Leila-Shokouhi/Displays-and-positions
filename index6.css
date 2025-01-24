@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.B {
+    background-color: rgb(2, 2, 86);
+}
+
+.D {
+    position: relative;
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    margin: 150px 500px;
+    padding: 0;
+}
+
+.D1 {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    border-radius: 200%;
+    position: absolute;
+    right: 5rem;
+    bottom: 5rem;
+
+}
+
+.D2 {
+    background-color: rgb(2, 2, 86);
+    width: 200px;
+    height: 200px;
+    border-radius: 200%;
+    position: absolute;
+    right: 6rem;
+    bottom: 6rem;
+}

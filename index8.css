@@ -1,0 +1,262 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.chess {
+    width: 26rem;
+    height: 26rem;
+    border: rgb(214, 211, 211) solid 8px;
+    margin: 140px 550px;
+    position: relative;
+    display: block;
+}
+
+.black {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 0;
+    left: 0;
+}
+
+.grey {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 0;
+    left: 5rem;
+}
+
+.black1 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 0;
+    left: 10rem;
+}
+
+.grey1 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 0;
+    left: 15rem;
+}
+
+.black0 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 0;
+    left: 20rem;
+}
+
+.black2 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 5rem;
+    left: 5rem;
+}
+
+.grey2 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 5rem;
+    left: 0;
+}
+
+.black3 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 5rem;
+    left: 15rem;
+}
+
+.grey3 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 5rem;
+    left: 10rem;
+}
+.grey00 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 5rem;
+    left: 20rem;
+}
+
+.black4 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 10rem;
+    left: 0;
+}
+
+.grey4 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 10rem;
+    left: 5rem;
+}
+
+.black5 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 10rem;
+    left: 10rem;
+}
+
+.grey5 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 10rem;
+    left: 15rem;
+}
+
+.black000 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 10rem;
+    left: 20rem;
+}
+
+.black6 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 15rem;
+    left: 5rem;
+}
+
+.grey6 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 15rem;
+    left: 0;
+}
+
+.black7 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 15rem;
+    left: 15rem;
+}
+
+.grey7 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 15rem;
+    left: 10rem;
+}
+.grey0000 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 15rem;
+    left: 20rem;
+}
+
+.black8 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 20rem;
+    left: 0;
+}
+
+.grey8 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 20rem;
+    left: 5rem;
+}
+
+.black9 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 20rem;
+    left: 10rem;
+}
+
+.grey9 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: grey;
+    top: 20rem;
+    left: 15rem;
+}
+
+.black00000 {
+    position: absolute;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-color: black;
+    top: 20rem;
+    left: 20rem;
+}

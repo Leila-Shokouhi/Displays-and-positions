@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.div {
+    width: 250px;
+    height: 150px;
+    position: relative;
+    display: block;
+    margin: 0.5rem;
+}
+.div1 {
+    background-color: aqua;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.div2 {
+    background-color: orange;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: +999;
+}

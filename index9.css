@@ -1,0 +1,473 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.heart {
+    width: 31rem;
+    height: 29rem;
+    margin: 130px 500px;
+    position: relative;
+    display: block;
+}
+
+.h1 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 0;
+    left: 3.5rem;
+}
+
+.h2 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 0;
+    left: 7rem;
+}
+
+.h3 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 0;
+    right: 7rem;
+}
+
+.h4 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 0;
+    right: 3.5rem;
+}
+
+.h5 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 3.5rem;
+    left: 0;
+}
+
+.h6 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 3.5rem;
+    left: 3.5rem;
+}
+
+.h7 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 3.5rem;
+    left: 7rem;
+}
+
+.h8 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 3.5rem;
+    left: 10.5rem;
+}
+
+.h9 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 3.5rem;
+    right: 0;
+}
+
+.h10 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 3.5rem;
+    right: 3.5rem;
+}
+
+.h11 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 3.5rem;
+    right: 7rem;
+}
+
+.h12 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 3.5rem;
+    right: 10.5rem;
+}
+
+.h13 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 7rem;
+    left: 0;
+}
+
+.h14 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 7rem;
+    left: 3.5rem;
+}
+
+.h15 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 7rem;
+    left: 7rem;
+}
+
+.h16 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 7rem;
+    left: 10.5rem;
+}
+
+.h17 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 7rem;
+    left: 14rem;
+}
+
+.h18 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 7rem;
+    right: 0;
+}
+
+.h19 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 7rem;
+    right: 3.5rem;
+}
+
+.h20 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 7rem;
+    right: 7rem;
+}
+
+.h21 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 7rem;
+    right: 10.5rem;
+}
+
+.h22 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 10.5rem;
+    left: 0;
+}
+
+.h23 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 10.5rem;
+    left: 3.5rem;
+}
+
+.h24 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 10.5rem;
+    left: 7rem;
+}
+
+.h25 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 10.5rem;
+    left: 10.5rem;
+}
+
+.h26 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 10.5rem;
+    left: 14rem;
+}
+
+.h27 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 10.5rem;
+    right: 0;
+}
+
+.h28 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 10.5rem;
+    right: 3.5rem;
+}
+
+.h29 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 10.5rem;
+    right: 7rem;
+}
+
+.h30 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 10.5rem;
+    right: 10.5rem;
+}
+
+.h31 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 14rem;
+    left: 3.5rem;
+}
+
+.h32 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 14rem;
+    left: 7rem;
+}
+
+.h33 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 14rem;
+    left: 10.5rem;
+}
+
+.h34 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 14rem;
+    left: 14rem;
+}
+
+.h35 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 14rem;
+    right: 3.5rem;
+}
+
+.h36 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 14rem;
+    right: 7rem;
+}
+
+.h37 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 14rem;
+    right: 10.5rem;
+}
+
+.h38 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 17.5rem;
+    left: 7rem;
+}
+
+.h39 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 17.5rem;
+    left: 10.5rem;
+}
+
+.h40 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 17.5rem;
+    left: 14rem;
+}
+
+.h41 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 17.5rem;
+    right: 7rem;
+}
+
+.h42 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 17.5rem;
+    right: 10.5rem;
+}
+
+.h43 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 21rem;
+    left: 10.5rem;
+}
+
+.h44 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 21rem;
+    left: 14rem;
+}
+
+.h45 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 21rem;
+    right: 10.5rem;
+}
+
+.h46 {
+    position: absolute;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: crimson;
+    top: 24.5rem;
+    left: 14rem;
+}
