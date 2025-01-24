@@ -13,6 +13,7 @@
     position: sticky;
     display: block;
     background-color: rgb(34, 127, 214);
+    top: 0;
     margin-bottom: 0;
     padding-bottom: 0;
 }
@@ -22,14 +23,13 @@
 }
 
 .M {
-    position: relative;
+    position: static;
     display: inline-block;
     background-color: rgb(131, 137, 141);
     height: 50rem;
     width: 100%;
 }
 .P2 {
-    position: absolute;
-    margin: 0 0;
+   margin: 0 0;
     padding: 0 0;
 }
